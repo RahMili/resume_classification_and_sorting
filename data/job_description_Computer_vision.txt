@@ -1,0 +1,31 @@
+We are looking for Computer Vision Engineers to research and develop cutting edge Computer Vision algorithms for Visual Inspection applications for Manufacturing. He/she would be expected to work out of our office in Tiruchirappalli, Tamil Nadu. This is not a pure software development position and would require working with hardware for experimentation and deployment. Freshers with demonstrated skills in Robotics/Computer Vision are welcome to apply.
+
+
+What are our expectations:
+
+1. Should work out of our office in Thillai Nagar, Trichy for both internship and full time positions. This is not a remote position.
+
+2. Experience with robotics simulation software (e.g., ROS, Gazebo, or V-REP)
+
+3. Familiarity with robotic sensors, actuators, and control systems
+
+4. Experience with control boards such as Arduino, Raspberry Pi, NVIDIA Jetson series
+
+5. Coursework/Projects in Computer Vision (Image Processing/Video Analytics)
+
+6. Passionate towards manufacturing and willing to get their hands dirty building machines
+
+7. Should have taken a few courses in Data Science/Machine Learning/Deep Learning etc
+
+8. Proficient in Python programming
+
+9. Github of projects and Kaggle competitions is a huge plus
+
+
+Required Qualifications:
+
+0-4 years of work experience as a Computer Vision engineer
+B.E/B.Tech/M.E./M.Tech in Mechatronics, Mechanical Engineering and Electronics & Communications
+Experience developing Image Processing and Deep Learning algorithms for Machine Vision/Robotics applications
+Strong skills in Computer Vision/Image Processing/Deep Learning libraries and frameworks such as OpenCV, PyTorch, Tensorflow etc.
+Comfortable in software development lifecycle and good development practices
